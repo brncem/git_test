@@ -1,0 +1,1 @@
+I OPENED THIS TXT FILE ALL ON MY OWN BY USING nano hello_world.txt. 
